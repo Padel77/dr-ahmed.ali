@@ -586,7 +586,7 @@
 /* Set the size of the div element that contains the map */
  .map{
      opacity: 0.6;
-     background-image: url(../image/1.png);
+     background-image: url(m.png);
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -op-background-size: cover;
